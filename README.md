@@ -6,14 +6,28 @@ With over 20 years of experience, I specialize in enterprise-scale Citrix and Az
 
 My work focuses on designing and implementing robust hybrid cloud solutions, with particular emphasis on Citrix and Azure environments. I develop comprehensive automation strategies using PowerShell and Azure DevOps, creating efficient CI/CD pipelines for application delivery and image management. Through Infrastructure as Code (IaC) implementations, I build scalable environments that meet enterprise requirements while maintaining security and performance standards.
 
-## Technical Proficiency
+### 🔭 What I Do
 
-Virtualization: Citrix Virtual Apps/Desktops, Azure Virtual Desktop, VMware
-Cloud Services: Azure, Citrix Cloud, AWS
-DevOps Tools: Azure DevOps, Git, PowerShell, Infrastructure as Code
-Security: OAuth/SAML, Entra ID, Key Vault, RBAC
-Automation: MCS/PVS, App Layering, FSLogix, Azure Automation
+- Design and implement hybrid cloud solutions with Citrix and Azure
+- Automate infrastructure deployments using PowerShell and Azure DevOps
+- Develop CI/CD pipelines for application delivery and image management
+- Create Infrastructure as Code (IaC) solutions for scalable environments
+- Build secure identity and access management solutions
 
+### 🛠️ Tech Stack
+
+- **Virtualization:** Citrix Virtual Apps/Desktops, Azure Virtual Desktop, VMware
+- **Cloud:** Azure, Citrix Cloud, AWS
+- **DevOps:** Azure DevOps, Git, PowerShell, Infrastructure as Code
+- **Security:** OAuth/SAML, Entra ID, Key Vault, RBAC
+- **Automation:** MCS/PVS, App Layering, FSLogix, Azure Automation
+
+### 📈 Current Focus
+
+- Expanding Azure architecture and automation capabilities
+- Developing cloud-native solutions for traditional enterprise workloads
+- Implementing zero-trust security models in hybrid environments
+- Building scalable multi-tenant management solutions
 ## Resource Quick Links 
 
 Best Practices & Design Guides:
