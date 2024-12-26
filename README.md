@@ -1,7 +1,7 @@
 # Hi, I'm Skip Miller 👋
 
 <!--
-Here's a template to help you create an awesome GitHub profile README!
+**skipmiller/skipmiller** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
 
 ## About Me
@@ -20,4 +20,4 @@ Here's a template to help you create an awesome GitHub profile README!
 - [Your contact information]
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=skipmiller&show_icons=true&theme=radical) 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=skipmiller&show_icons=true&theme=radical)
