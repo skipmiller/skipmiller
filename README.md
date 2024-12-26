@@ -1,23 +1,42 @@
-# Hi, I'm Skip Miller 👋
+## Hi there, I'm Skip Miller 👋
 
-<!--
-**skipmiller/skipmiller** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
--->
+I'm a Senior VDI Engineer specializing in enterprise-scale Citrix and Azure solutions. With over 20 years of experience, I bridge the gap between traditional infrastructure and modern cloud technologies.
 
-## About Me
-[Your introduction here]
+### 🔭 What I Do
 
-## 🔭 Current Projects
-- [Project 1]
-- [Project 2]
+- Design and implement hybrid cloud solutions with Citrix and Azure
+- Automate infrastructure deployments using PowerShell and Azure DevOps
+- Develop CI/CD pipelines for application delivery and image management
+- Create Infrastructure as Code (IaC) solutions for scalable environments
+- Build secure identity and access management solutions
 
-## 🌱 Skills
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
+### 🛠️ Tech Stack
 
-## 📫 How to reach me
-- [Your contact information]
+- **Virtualization:** Citrix Virtual Apps/Desktops, Azure Virtual Desktop, VMware
+- **Cloud:** Azure, Citrix Cloud, AWS
+- **DevOps:** Azure DevOps, Git, PowerShell, Infrastructure as Code
+- **Security:** OAuth/SAML, Entra ID, Key Vault, RBAC
+- **Automation:** MCS/PVS, App Layering, FSLogix, Azure Automation
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=skipmiller&show_icons=true&theme=radical)
+### 📈 Current Focus
+
+- Expanding Azure architecture and automation capabilities
+- Developing cloud-native solutions for traditional enterprise workloads
+- Implementing zero-trust security models in hybrid environments
+- Building scalable multi-tenant management solutions
+
+### 🌱 Always Learning
+
+- Advanced Azure architectures
+- Modern DevOps practices
+- Cloud-native technologies
+- Infrastructure automation
+
+### 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/denverskipmiller/)
+- [Email](mailto:skip@thinktankconsulting.net)
+
+### 💡 Fun Fact
+
+I've helped migrate over 100 enterprise environments to modern cloud platforms, saving clients millions in infrastructure costs while improving security and user experience.
