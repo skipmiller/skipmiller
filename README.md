@@ -1,7 +1,6 @@
-# Skip Miller 
-## Senior VDI Engineer & Cloud Solutions Architect
+## Hi, I'm Skip Miller, a Senior VDI Engineer & Architect
 
-As a Senior VDI Engineer with over 20 years of experience, I specialize in enterprise-scale Citrix and Azure solutions. My expertise bridges the gap between traditional infrastructure and modern cloud technologies, offering comprehensive solutions for complex enterprise environments.
+With over 20 years of experience, I specialize in enterprise-scale Citrix and Azure solutions. My expertise bridges the gap between traditional infrastructure and modern cloud technologies, offering comprehensive solutions for complex enterprise environments.
 
 ## Professional Expertise
 
@@ -15,9 +14,7 @@ DevOps Tools: Azure DevOps, Git, PowerShell, Infrastructure as Code
 Security: OAuth/SAML, Entra ID, Key Vault, RBAC
 Automation: MCS/PVS, App Layering, FSLogix, Azure Automation
 
-## Enterprise Technology Resources
-
-### Citrix Resources
+## Resource Quick Links 
 
 Best Practices & Design Guides:
 - [Citrix Tech Zone](https://docs.citrix.com/en-us/tech-zone) - Technical insights and reference architectures
