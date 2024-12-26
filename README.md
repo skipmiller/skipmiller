@@ -1,4 +1,4 @@
-## Hi, I'm Skip Miller, a Senior VDI Engineer & Architect
+## Hi, I'm a VDI Engineer & Cloud Architect
 
 With over 20 years of experience, I specialize in enterprise-scale Citrix and Azure solutions. My expertise bridges the gap between traditional infrastructure and modern cloud technologies, offering comprehensive solutions for complex enterprise environments.
 
